@@ -24,7 +24,6 @@ Una aplicación web moderna para enviar mensajes de WhatsApp sin agendar el cont
 - **Phone Input**: react-phone-input-2
 - **PWA**: Service Worker + Manifest
 - **Build**: Turbopack (Next.js bundler)
-- **Deployment**: Vercel, Netlify, etc.
 
 ## 📞 Contacto
 
